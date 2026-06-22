@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my document site</title>
+</head>
+<body>
+     <h1 style=" color: blue; font-family: 'Times New Roman', Times, serif font-size:60px;" Welcome to gamers delight of fortnite/h1>
+     <p>Explore the digital universe with cool graphics containg gaming charactetrs with various skins, with unloackable features such as weapons to explore</p>
+      <img src="4fc31dac6fe1c6aa187db5ef89e3048a4da7317ab03098b4c3c4b4a7ce96ba35.avif" alt="image"> height="500px" width="500px"
+      
+      <h2>Gaming the physics that feels real</h2>
+      <img src="images.jpg" alt="image" height="500px" width"500px"
+</body>
+</html>
